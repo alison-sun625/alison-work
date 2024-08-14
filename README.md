@@ -1,6 +1,5 @@
 - ☀️ Hi, I’m Alison!
-- 👀 I’m a recent grad from UC Santa Cruz (double majored in computer science + linguistics) interested in interdisciplinary opportunities in tech — product management,
-- technical writing, and computational linguistics/NLP, just to name a few!
+- 👀 I’m a recent grad from UC Santa Cruz (double majored in computer science + linguistics) interested in interdisciplinary opportunities in tech — product management, technical writing, and computational linguistics/NLP, just to name a few!
 - 📫 Drop me a line at alisonsun625@gmail.com
 
 <!---
